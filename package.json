@@ -1,0 +1,17 @@
+{
+  "name": "kmltocsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parsekml.js",
+  "scripts": {
+    "start": "node parsekml.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^3.0.0",
+    "read-xml": "^3.0.0",
+    "xml-js": "^1.6.2"
+  }
+}
